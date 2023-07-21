@@ -1,0 +1,34 @@
+.back {
+    display: inline-block;
+    font-size: 40px;
+    text-decoration-line: none;
+    height: 50px;   
+}
+
+.bet-form {
+    margin : 10px auto;
+    border : 4px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.attack{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.con {
+    text-align: center;
+    font-weight: bold;
+}
+
+.word {
+    text-align: center;
+}
+
+.message {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
